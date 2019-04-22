@@ -1,0 +1,10 @@
+
+# Assets以外のフォルダ以下は含まない
+Library/
+ProjectSettings/
+UnityPackageManager/
+
+*.unity
+
+# メタファイルも含まない
+*.meta
